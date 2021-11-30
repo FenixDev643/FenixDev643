@@ -37,8 +37,10 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FenixDev643&show_icons=true&hide_border=true)
 ---
 
+---
 <img src="https://fenixdev643.github.io/FenixDEVPage/static/media/sans.403e105d.jpeg">
 <img src="https://fenixdev643.github.io/FenixDEVPage/static/media/zombie.2b069a66.jpg">
+---
 
 - [**this is About Me and Videogame Development🎮**](https://fenixgames.itch.io/)
 - [**My Twitter🐦**](https://twitter.com/Fenix__DEV)
