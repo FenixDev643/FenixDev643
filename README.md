@@ -40,6 +40,7 @@
 ---
 <img src="https://fenixdev643.github.io/FenixDEVPage/static/media/sans.403e105d.jpeg">
 <img src="https://fenixdev643.github.io/FenixDEVPage/static/media/zombie.2b069a66.jpg">
+<img src="https://pbs.twimg.com/media/FFn-2zHVEAI8oHI?format=jpg&name=large">
 
 ---
 - [**this is About Me and Videogame Development🎮**](https://fenixgames.itch.io/)
