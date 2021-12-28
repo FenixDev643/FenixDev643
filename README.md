@@ -13,6 +13,7 @@
 <img src="https://img.shields.io/badge/-TypeScript-3178c6?style=flat&logo=TypeScript&logoColor=white">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-NextJS-000000?style=flat&logo=Next.js&20IDE&logoColor=white">
+<img src="https://img.shields.io/badge/-Chakra%20UI-319795?style=flat&logo=Chakra%20UI&logoColor=white">
 <img src="https://img.shields.io/badge/-styled%20components-DB7093?style=flat&logo=styled-components&logoColor=white">
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
